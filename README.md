@@ -1,16 +1,19 @@
-### Hi there 👋
+## 👋🏻 Hi! I'm Daniel
 
-<!--
-**Daniel-V-Sarmento/Daniel-V-Sarmento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on @Beghim 
+- ⚙️ studying electrical engineering
+- 🧑‍💻 i like sci-fi movie and technology
+- 🧑‍🍳 in my spare time I prefer to cook
 
-Here are some ideas to get you started:
+## Language
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" heigth="50" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" heigth="50" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="center" heigth="50" width="60"/>
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Daniel-V-Sarmento GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-V-Sarmento&count_private=true&show_icons=true&theme=midnight-purple&hide=prs,contribs)](https://github.com/Daniel-V-Sarmento/github-readme-stats)
+
+[![Gmail Badge](https://img.shields.io/badge/-danielsarmentos7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielsarmentos7@gmail.com)](mailto:danielsarmentos7@gmail.com)
+
